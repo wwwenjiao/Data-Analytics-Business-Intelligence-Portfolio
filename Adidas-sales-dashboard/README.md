@@ -1,25 +1,42 @@
-# Adidas Sales Performance Dashboard
+# ADIDAS-SALES-ANALYSIS-Power-BI-Dashboard
+Adidas Sales Analysis Dashboard built with Power BI, providing insights into sales, profit, regional performance, and product trends through interactive visualizations.
 
-## Objective
-Develop a KPI-driven dashboard to analyze sales performance, profitability, and growth drivers.
+---
 
-## Dataset
-Simulated retail sales dataset including product, region, retailer, and time dimensions.
+## 🎯 Business Goal
+Support data-driven decisions by analyzing:
+- Sales performance and trends
+- Profitability and margins
+- Regional and state-level performance
+- Product and retailer contribution
 
-## Key Analysis
-- Revenue, Profit, Margin analysis
-- YoY growth comparison
-- Multi-level breakdown (Region / Product / Retailer)
+---
 
-## Data Modeling
-- Star schema
-- DAX measures for KPI calculation
-- Interactive slicers for dynamic exploration
+## 📊 Key KPIs
+- Total Sales  
+- Total Profit  
+- Total Units Sold  
+- Average Price per Unit  
+- Average Margin  
 
-## Key Insights
-- Revenue growth did not consistently translate into margin growth
-- Regional performance disparities
-- Product concentration risk
+---
 
-## Tools
-Power BI | DAX | Data Modeling
+## 📈 Dashboard Features
+- Monthly sales trend analysis
+- Sales by state (filled map)
+- Sales contribution by region
+- Product-level sales analysis
+- Retailer performance comparison
+- Interactive slicers (Region, Date)
+
+---
+
+## 🛠 Tools Used
+- Power BI | Power Query | DAX | Data Modeling
+- Excel
+
+---
+
+## 💡 Outcome
+Translated business requirements into actionable insights using an interactive and KPI-focused dashboard.
+
