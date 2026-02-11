@@ -39,7 +39,9 @@ Year-over-Year revenue and product-level performance insights.
 
 **Tools:** Power BI | DAX | Data Modeling  
 
+
 🔗 [Project Repository](./Multi-Channel Sales Analytics with YoY Comparison)
+
 
 ---
 
