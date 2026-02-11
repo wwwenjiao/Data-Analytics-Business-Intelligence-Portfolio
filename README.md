@@ -91,4 +91,5 @@ Interested in:
 # Contact
 
 Wenjiao Zhou  
+linkedin: https://www.linkedin.com/in/wenjiao-zhou-243462259/
 Poland (Open to relocation)
