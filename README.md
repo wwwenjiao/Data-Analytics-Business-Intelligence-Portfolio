@@ -40,7 +40,7 @@ Year-over-Year revenue and product-level performance insights.
 **Tools:** Power BI | DAX | Data Modeling  
 
 
-🔗 [Project Repository](./Multi-Channel Sales Analytics with YoY Comparison)
+🔗 [Project Repository](./multichannel-sales-yoy-analysis)
 
 
 ---
@@ -52,7 +52,7 @@ Workforce attrition risk modeling and compensation fairness evaluation.
 
 **Tools:** Python | Pandas | Seaborn | Power BI  
 
-🔗 [Project Repository](./HR Analytics: Attrition & Compensation Insights)
+🔗 [Project Repository](./hr-analytics-attrition-compensation)
 
 ---
 
@@ -61,7 +61,7 @@ User funnel modeling, traffic analysis, and repeat purchase behavior insights.
 
 **Tools:** Python | Pandas | Power BI  
 
-🔗 [Project Repository](./E-commerce User Behavior & Conversion Analysis)
+🔗 [Project Repository](./ecommerce-user-behavior-analysis)
 
 ---
 
