@@ -61,7 +61,7 @@ Key highlights:
 
 **Tools:** Python | Pandas | Scikit-learn | SHAP | Matplotlib
 
-🔗 [Project Repository](./hr-analytics-attrition-compensation)
+🔗 [Project Repository](./employee_attrition_prediction_workforce_insights)
 
 ---
 
