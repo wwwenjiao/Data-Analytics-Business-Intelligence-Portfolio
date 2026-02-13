@@ -47,10 +47,19 @@ Year-over-Year revenue and product-level performance insights.
 
 ## 🐍 Python Projects
 
-### 3️⃣ HR Analytics: Attrition & Compensation Insights  
-Workforce attrition risk modeling and compensation fairness evaluation.
+### 3️⃣ HR Analytics: Employee Attrition Prediction
 
-**Tools:** Python | Pandas | Seaborn | Power BI  
+An end-to-end machine learning project focused on predicting employee attrition and uncovering structural workforce risks.
+
+Built a fully interpretable predictive pipeline using Logistic Regression and Random Forest, validated with cross-validation (ROC-AUC 0.99), and translated model insights into actionable HR strategies.
+
+Key highlights:
+- SHAP-based model interpretation
+- Risk-based intervention strategy (Top 10% → 100% precision)
+- Identification of mid-career risk window (3–4 years)
+- Behavioral drivers > structural factors
+
+**Tools:** Python | Pandas | Scikit-learn | SHAP | Matplotlib
 
 🔗 [Project Repository](./hr-analytics-attrition-compensation)
 
