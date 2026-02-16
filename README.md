@@ -65,10 +65,22 @@ Key highlights:
 
 ---
 
-### 4️⃣ E-commerce User Behavior & Conversion Analysis  
-User funnel modeling, traffic analysis, and repeat purchase behavior insights.
+### 4️⃣ London Bike Sharing — Mobility & Network Optimization
 
-**Tools:** Python | Pandas | Power BI  
+Operational analytics project on ~735,000 bike trips across 800 stations, focused on uncovering structural demand patterns and optimizing fleet allocation.
+
+Key Contributions
+- Identified commuter-driven bimodal demand (7–9 AM, 5–6 PM)
+- Detected structural station imbalance via net flow analysis
+- Segmented stations into 5 operational archetypes (K-Means)
+- Validated demand drivers using ANOVA (hour, weekday, station, bike model — all significant)
+
+Business Impact
+- Shifted strategy from uniform allocation to cluster-based capacity planning  
+- Prioritized redistribution for high-flow corridors  
+- Built a data-driven decision framework for urban mobility operations  
+
+**Tools:** Python | Pandas | Scikit-learn | K-Means | PCA | ANOVA | Matplotlib | Seaborn
 
 🔗 [Project Repository](./ecommerce-user-behavior-analysis)
 
